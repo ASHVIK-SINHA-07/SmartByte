@@ -466,3 +466,43 @@ _tkinter.TclError: Item 6 already exists
 2025-12-02 19:31:16,652 - __main__ - INFO - Loaded 1 notes from storage
 2025-12-02 19:31:16,652 - __main__ - INFO - Successfully displayed 1 notes in listbox
 2025-12-02 19:31:16,653 - __main__ - INFO - Application running
+2025-12-02 23:25:06,017 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 23:25:06,018 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 23:25:06,036 - __main__ - INFO - ttkbootstrap available
+2025-12-02 23:25:07,180 - apscheduler.scheduler - INFO - Scheduler started
+2025-12-02 23:25:07,180 - __main__ - INFO - Starting application...
+2025-12-02 23:25:07,536 - __main__ - INFO - Window icon set successfully
+2025-12-02 23:25:07,536 - __main__ - INFO - Creating widgets...
+2025-12-02 23:25:07,663 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-12-02 23:25:07,663 - __main__ - INFO - Keyboard shortcuts registered
+2025-12-02 23:25:07,663 - __main__ - INFO - Autosave timer started
+2025-12-02 23:25:07,663 - __main__ - INFO - Refreshing notes list...
+2025-12-02 23:25:07,669 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 23:25:07,669 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 23:25:07,670 - __main__ - INFO - Application running
+2025-12-02 23:26:20,792 - __main__ - INFO - Application closing - running cleanup...
+2025-12-02 23:26:20,794 - __main__ - INFO - Cancelling autosave timer
+2025-12-02 23:26:20,795 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-12-02 23:26:20,797 - __main__ - INFO - Stopped reminder scheduler
+2025-12-02 23:26:20,797 - __main__ - INFO - Cleanup completed successfully
+2025-12-02 23:26:20,834 - __main__ - INFO - Application closed
+2025-12-02 23:26:24,577 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 23:26:24,577 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 23:26:25,339 - __main__ - INFO - ttkbootstrap available
+2025-12-02 23:26:36,792 - apscheduler.scheduler - INFO - Scheduler started
+2025-12-02 23:26:36,793 - __main__ - INFO - Starting application...
+2025-12-02 23:26:37,290 - __main__ - INFO - Window icon set successfully
+2025-12-02 23:26:37,290 - __main__ - INFO - Creating widgets...
+2025-12-02 23:26:37,419 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-12-02 23:26:37,419 - __main__ - INFO - Keyboard shortcuts registered
+2025-12-02 23:26:37,419 - __main__ - INFO - Autosave timer started
+2025-12-02 23:26:37,419 - __main__ - INFO - Refreshing notes list...
+2025-12-02 23:26:37,423 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 23:26:37,423 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 23:26:37,424 - __main__ - INFO - Application running
+2025-12-02 23:27:04,876 - __main__ - INFO - Application closing - running cleanup...
+2025-12-02 23:27:04,877 - __main__ - INFO - Cancelling autosave timer
+2025-12-02 23:27:04,878 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-12-02 23:27:04,883 - __main__ - INFO - Stopped reminder scheduler
+2025-12-02 23:27:04,883 - __main__ - INFO - Cleanup completed successfully
+2025-12-02 23:27:04,921 - __main__ - INFO - Application closed
