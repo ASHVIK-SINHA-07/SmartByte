@@ -1,0 +1,468 @@
+2025-11-28 22:39:28,754 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 22:39:28,754 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 22:39:28,837 - __main__ - INFO - ttkbootstrap available
+2025-11-28 22:39:30,990 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 22:39:30,991 - __main__ - INFO - Starting application...
+2025-11-28 22:39:31,172 - __main__ - INFO - Creating widgets...
+2025-11-28 22:50:01,501 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 22:50:01,501 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 22:50:01,553 - __main__ - INFO - ttkbootstrap available
+2025-11-28 22:50:02,718 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 22:50:02,720 - __main__ - INFO - Starting application...
+2025-11-28 22:50:02,839 - __main__ - INFO - Creating widgets...
+2025-11-28 22:53:24,820 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 22:53:24,821 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 22:53:24,881 - __main__ - INFO - ttkbootstrap available
+2025-11-28 22:53:26,580 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 22:53:26,582 - __main__ - INFO - Starting application...
+2025-11-28 22:53:26,728 - __main__ - INFO - Creating widgets...
+2025-11-28 22:53:27,075 - __main__ - INFO - Keyboard shortcuts configured
+2025-11-28 22:53:27,075 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-28 22:53:27,076 - __main__ - INFO - Autosave timer started
+2025-11-28 22:53:27,329 - __main__ - INFO - Application running
+2025-11-28 22:54:16,855 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 22:54:16,856 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 22:54:16,903 - __main__ - INFO - ttkbootstrap available
+2025-11-28 22:54:17,808 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 22:54:17,809 - __main__ - INFO - Starting application...
+2025-11-28 22:54:17,912 - __main__ - INFO - Creating widgets...
+2025-11-28 22:54:18,199 - __main__ - INFO - Keyboard shortcuts configured
+2025-11-28 22:54:18,200 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-28 22:54:18,200 - __main__ - INFO - Autosave timer started
+2025-11-28 22:54:18,342 - __main__ - INFO - Application running
+2025-11-28 22:54:23,073 - __main__ - INFO - Starting AI summary generation
+2025-11-28 22:54:23,076 - ai_utils - INFO - Using Gemini model: gemini-2.5-flash
+2025-11-28 22:54:23,077 - ai_utils - INFO - Sending summarization request to Gemini API
+2025-11-28 22:54:26,386 - ai_utils - INFO - Received summary (768 chars)
+2025-11-28 22:54:26,388 - __main__ - INFO - Summary generated successfully
+2025-11-28 22:54:26,429 - ui_components - INFO - Modal opened: ✨ AI Summary
+2025-11-28 22:55:38,407 - __main__ - INFO - Application closed
+2025-11-28 22:58:18,825 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 22:58:18,825 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 22:58:18,903 - __main__ - INFO - ttkbootstrap available
+2025-11-28 22:58:20,598 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 22:58:20,599 - __main__ - INFO - Starting application...
+2025-11-28 22:58:20,726 - __main__ - INFO - Creating widgets...
+2025-11-28 22:58:20,989 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-11-28 22:58:20,989 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-28 22:58:20,989 - __main__ - INFO - Autosave timer started
+2025-11-28 22:58:21,142 - __main__ - INFO - Application running
+2025-11-28 22:59:10,395 - __main__ - INFO - Application closed
+2025-11-28 23:01:05,022 - ai_utils - INFO - Gemini API configured successfully
+2025-11-28 23:01:05,022 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-28 23:01:05,117 - __main__ - INFO - ttkbootstrap available
+2025-11-28 23:01:06,594 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-28 23:01:06,596 - __main__ - INFO - Starting application...
+2025-11-28 23:01:06,705 - __main__ - INFO - Creating widgets...
+2025-11-28 23:01:07,195 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-11-28 23:01:07,195 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-28 23:01:07,195 - __main__ - INFO - Autosave timer started
+2025-11-28 23:01:07,220 - __main__ - INFO - Application running
+2025-11-28 23:01:12,118 - __main__ - INFO - Switched to dark theme
+2025-11-28 23:01:15,536 - __main__ - INFO - Switched to light theme
+2025-11-28 23:01:22,235 - __main__ - INFO - Application closed
+2025-11-28 23:33:35,444 - ai_utils - INFO - Gemini API configured successfully
+2025-11-29 21:32:20,505 - ai_utils - INFO - Gemini API configured successfully
+2025-11-29 21:32:20,506 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-29 21:32:20,525 - __main__ - INFO - ttkbootstrap available
+2025-11-29 21:32:21,430 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-29 21:32:21,431 - __main__ - INFO - Starting application...
+2025-11-29 21:32:21,603 - __main__ - INFO - Creating widgets...
+2025-11-29 21:32:21,701 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-11-29 21:32:21,701 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-29 21:32:21,701 - __main__ - INFO - Autosave timer started
+2025-11-29 21:32:21,701 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:32:21,707 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:32:21,731 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:32:21,733 - __main__ - INFO - Application running
+2025-11-29 21:33:03,828 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:33:03,840 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:33:03,841 - __main__ - ERROR - Failed to insert note 0: Item 27 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 27 already exists
+2025-11-29 21:33:03,846 - __main__ - ERROR - Failed to insert note 1: Item 26 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 26 already exists
+2025-11-29 21:33:03,847 - __main__ - ERROR - Failed to insert note 2: Item 22 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 22 already exists
+2025-11-29 21:33:03,847 - __main__ - ERROR - Failed to insert note 3: Item 21 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 21 already exists
+2025-11-29 21:33:03,848 - __main__ - ERROR - Failed to insert note 4: Item 8 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 8 already exists
+2025-11-29 21:33:03,848 - __main__ - ERROR - Failed to insert note 5: Item 7 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 7 already exists
+2025-11-29 21:33:03,848 - __main__ - ERROR - Failed to insert note 6: Item 6 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 6 already exists
+2025-11-29 21:33:03,849 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:33:04,644 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:33:04,647 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:33:04,647 - __main__ - ERROR - Failed to insert note 0: Item 27 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 27 already exists
+2025-11-29 21:33:04,648 - __main__ - ERROR - Failed to insert note 1: Item 26 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 26 already exists
+2025-11-29 21:33:04,648 - __main__ - ERROR - Failed to insert note 2: Item 22 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 22 already exists
+2025-11-29 21:33:04,648 - __main__ - ERROR - Failed to insert note 3: Item 21 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 21 already exists
+2025-11-29 21:33:04,649 - __main__ - ERROR - Failed to insert note 4: Item 8 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 8 already exists
+2025-11-29 21:33:04,649 - __main__ - ERROR - Failed to insert note 5: Item 7 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 7 already exists
+2025-11-29 21:33:04,649 - __main__ - ERROR - Failed to insert note 6: Item 6 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 6 already exists
+2025-11-29 21:33:04,650 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:33:12,880 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:33:12,884 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:33:12,884 - __main__ - ERROR - Failed to insert note 0: Item 27 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 27 already exists
+2025-11-29 21:33:12,885 - __main__ - ERROR - Failed to insert note 1: Item 26 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 26 already exists
+2025-11-29 21:33:12,886 - __main__ - ERROR - Failed to insert note 2: Item 22 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 22 already exists
+2025-11-29 21:33:12,886 - __main__ - ERROR - Failed to insert note 3: Item 21 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 21 already exists
+2025-11-29 21:33:12,886 - __main__ - ERROR - Failed to insert note 4: Item 8 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 8 already exists
+2025-11-29 21:33:12,887 - __main__ - ERROR - Failed to insert note 5: Item 7 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 7 already exists
+2025-11-29 21:33:12,887 - __main__ - ERROR - Failed to insert note 6: Item 6 already exists
+Traceback (most recent call last):
+  File "/Users/ashviksinha/Library/CloudStorage/OneDrive-BENNETTUNIVERSITY/python/vsscode/newproject/main.py", line 511, in refresh_notes
+    self.notes_tree.insert(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        "", "end", iid=str(nid), text=title, values=(display_date,), tags=(tag,)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/ttk.py", line 1346, in insert
+    res = self.tk.call(self._w, "insert", parent, index,
+        "-id", iid, *opts)
+_tkinter.TclError: Item 6 already exists
+2025-11-29 21:33:12,888 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:34:29,211 - __main__ - INFO - Application closed
+2025-11-29 21:36:49,898 - ai_utils - INFO - Gemini API configured successfully
+2025-11-29 21:36:49,900 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-29 21:36:49,916 - __main__ - INFO - ttkbootstrap available
+2025-11-29 21:36:50,762 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-29 21:36:50,762 - __main__ - INFO - Starting application...
+2025-11-29 21:36:50,918 - __main__ - INFO - Creating widgets...
+2025-11-29 21:36:51,013 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-11-29 21:36:51,014 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-29 21:36:51,014 - __main__ - INFO - Autosave timer started
+2025-11-29 21:36:51,014 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:36:51,014 - __main__ - INFO - Cleared existing tree items
+2025-11-29 21:36:51,016 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:36:51,047 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:36:51,049 - __main__ - INFO - Application running
+2025-11-29 21:37:23,445 - __main__ - INFO - Refreshing notes list...
+2025-11-29 21:37:23,446 - __main__ - INFO - Cleared existing tree items
+2025-11-29 21:37:23,453 - __main__ - INFO - Loaded 7 notes from storage
+2025-11-29 21:37:23,454 - __main__ - INFO - Successfully displayed 7 notes in treeview
+2025-11-29 21:39:23,585 - __main__ - INFO - Application closed
+2025-11-30 16:03:42,830 - ai_utils - INFO - Gemini API configured successfully
+2025-11-30 16:03:42,831 - __main__ - INFO - Smart Study Assistant starting...
+2025-11-30 16:03:42,848 - __main__ - INFO - ttkbootstrap available
+2025-11-30 16:03:43,806 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-30 16:03:43,806 - __main__ - INFO - Starting application...
+2025-11-30 16:03:44,040 - __main__ - INFO - Creating widgets...
+2025-11-30 16:03:44,132 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-11-30 16:03:44,132 - __main__ - INFO - Keyboard shortcuts registered
+2025-11-30 16:03:44,132 - __main__ - INFO - Autosave timer started
+2025-11-30 16:03:44,132 - __main__ - INFO - Refreshing notes list...
+2025-11-30 16:03:44,135 - __main__ - INFO - Loaded 3 notes from storage
+2025-11-30 16:03:44,135 - __main__ - INFO - Successfully displayed 3 notes in listbox
+2025-11-30 16:03:44,136 - __main__ - INFO - Application running
+2025-11-30 16:13:14,251 - __main__ - INFO - Switched to dark theme
+2025-11-30 16:13:16,924 - __main__ - INFO - Refreshing notes list...
+2025-11-30 16:13:16,956 - __main__ - INFO - Loaded 3 notes from storage
+2025-11-30 16:13:16,957 - __main__ - INFO - Successfully displayed 3 notes in listbox
+2025-11-30 16:13:19,961 - __main__ - INFO - Loaded note ID 23: jjj
+2025-11-30 16:13:22,071 - __main__ - INFO - Loaded note ID 23: jjj
+2025-11-30 16:13:22,654 - __main__ - INFO - Loaded note ID 19: orange
+2025-11-30 16:14:59,337 - __main__ - INFO - Application closing - running cleanup...
+2025-11-30 16:14:59,340 - __main__ - INFO - Cancelling autosave timer
+2025-11-30 16:14:59,340 - __main__ - WARNING - Could not stop reminder scheduler: module 'modules.reminders' has no attribute 'stop_scheduler'
+2025-11-30 16:14:59,340 - __main__ - INFO - Cleanup completed successfully
+2025-11-30 16:14:59,401 - __main__ - INFO - Application closed
+2025-12-02 14:13:36,310 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 14:13:36,311 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 14:13:36,391 - __main__ - INFO - ttkbootstrap available
+2025-12-02 14:44:41,359 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 14:44:41,360 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 14:44:41,378 - __main__ - INFO - ttkbootstrap available
+2025-12-02 14:45:39,992 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 14:45:39,992 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 14:45:40,009 - __main__ - INFO - ttkbootstrap available
+2025-12-02 14:45:41,046 - apscheduler.scheduler - INFO - Scheduler started
+2025-12-02 14:45:41,046 - __main__ - INFO - Starting application...
+2025-12-02 14:45:41,331 - __main__ - INFO - Window icon set successfully
+2025-12-02 14:45:41,332 - __main__ - INFO - Creating widgets...
+2025-12-02 14:45:41,456 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-12-02 14:45:41,456 - __main__ - INFO - Keyboard shortcuts registered
+2025-12-02 14:45:41,456 - __main__ - INFO - Autosave timer started
+2025-12-02 14:45:41,456 - __main__ - INFO - Refreshing notes list...
+2025-12-02 14:45:41,463 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 14:45:41,463 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 14:45:41,464 - __main__ - INFO - Application running
+2025-12-02 14:50:26,578 - __main__ - INFO - Application closing - running cleanup...
+2025-12-02 14:50:26,583 - __main__ - INFO - Cancelling autosave timer
+2025-12-02 14:50:26,585 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-12-02 14:50:26,591 - __main__ - INFO - Stopped reminder scheduler
+2025-12-02 14:50:26,591 - __main__ - INFO - Cleanup completed successfully
+2025-12-02 14:50:26,636 - __main__ - INFO - Application closed
+2025-12-02 15:19:36,932 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 15:19:36,933 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 15:19:36,950 - __main__ - INFO - ttkbootstrap available
+2025-12-02 15:19:37,879 - apscheduler.scheduler - INFO - Scheduler started
+2025-12-02 15:19:37,880 - __main__ - INFO - Starting application...
+2025-12-02 15:19:38,178 - __main__ - INFO - Window icon set successfully
+2025-12-02 15:19:38,178 - __main__ - INFO - Creating widgets...
+2025-12-02 15:19:38,289 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-12-02 15:19:38,291 - __main__ - INFO - Keyboard shortcuts registered
+2025-12-02 15:19:38,291 - __main__ - INFO - Autosave timer started
+2025-12-02 15:19:38,291 - __main__ - INFO - Refreshing notes list...
+2025-12-02 15:19:38,309 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 15:19:38,310 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 15:19:38,311 - __main__ - INFO - Application running
+2025-12-02 15:22:13,543 - __main__ - INFO - Switched to dark theme
+2025-12-02 15:22:15,233 - __main__ - INFO - Refreshing notes list...
+2025-12-02 15:22:15,254 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 15:22:15,255 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 15:22:17,844 - __main__ - INFO - Application closing - running cleanup...
+2025-12-02 15:22:17,845 - __main__ - INFO - Cancelling autosave timer
+2025-12-02 15:22:17,845 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-12-02 15:22:17,847 - __main__ - INFO - Stopped reminder scheduler
+2025-12-02 15:22:17,847 - __main__ - INFO - Cleanup completed successfully
+2025-12-02 15:22:17,888 - __main__ - INFO - Application closed
+2025-12-02 19:31:14,600 - ai_utils - INFO - Gemini API configured successfully
+2025-12-02 19:31:14,602 - __main__ - INFO - Smart Study Assistant starting...
+2025-12-02 19:31:14,718 - __main__ - INFO - ttkbootstrap available
+2025-12-02 19:31:16,292 - apscheduler.scheduler - INFO - Scheduler started
+2025-12-02 19:31:16,292 - __main__ - INFO - Starting application...
+2025-12-02 19:31:16,549 - __main__ - INFO - Window icon set successfully
+2025-12-02 19:31:16,549 - __main__ - INFO - Creating widgets...
+2025-12-02 19:31:16,649 - __main__ - INFO - Keyboard shortcuts configured (including undo/redo/theme)
+2025-12-02 19:31:16,649 - __main__ - INFO - Keyboard shortcuts registered
+2025-12-02 19:31:16,649 - __main__ - INFO - Autosave timer started
+2025-12-02 19:31:16,649 - __main__ - INFO - Refreshing notes list...
+2025-12-02 19:31:16,652 - __main__ - INFO - Loaded 1 notes from storage
+2025-12-02 19:31:16,652 - __main__ - INFO - Successfully displayed 1 notes in listbox
+2025-12-02 19:31:16,653 - __main__ - INFO - Application running
