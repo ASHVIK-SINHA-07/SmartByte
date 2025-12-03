@@ -91,15 +91,9 @@
 
 ### Main Interface
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [LOGO] Smart Study Assistant • AI-powered companion         │
-├─────────────────────────────────────────────────────────────┤
-│  📝 Notes  |  ⏰ Reminders  |  🎯 Quiz  |  ⏱️ Timer  |  📊 Dashboard  │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [Your content appears here]                                │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+<img width="1710" height="1112" alt="Screenshot 2025-12-03 at 1 49 47 PM" src="https://github.com/user-attachments/assets/2df94cd6-2ce6-4aae-93c2-85d97becf7e5" />
+
+
 ```
 
 ### Key Screenshots
@@ -306,8 +300,8 @@ LOGS_DIR = "logs"
 - **Google Gemini AI** - Intelligent quiz generation
 
 ### Key Libraries
-| Library | Purpose | Version |
-|---------|---------|---------|
+|   Library    |  Purpose  | Version |
+|--------------|---------|---------|
 | ttkbootstrap | Modern UI components | 1.10.1+ |
 | pandas | Data handling & CSV operations | 2.0.0+ |
 | google-generativeai | AI quiz generation | 0.3.0+ |
@@ -592,7 +586,7 @@ See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 ### ⭐ Star this repository if you find it helpful!
 
-**Made with ❤️ and ☕ by Ashvik Sinha**
+**Made with ❤️ and ☕ by Ashvik Sinha and team**
 
 [⬆ Back to Top](#-smart-study-assistant)
 
